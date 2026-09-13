@@ -1,0 +1,7 @@
+single_one = '"'
+single_two = '""'
+single_three = '"""'
+single_four = '""""'
+
+multiline_one = '''"'''
+multiline_three = '''"""'''
